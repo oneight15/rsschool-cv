@@ -24,3 +24,12 @@ function multiply(a, b){
 
 ## Work experience
 Absent, just learning
+
+## Education
+* South Ural State University (2013 - 2017)
+* HTML Academy (in progress) 
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress) 
+
+## Language
+* Russian (native)
+* English - A1/A2
