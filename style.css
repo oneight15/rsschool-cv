@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth; 
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    min-height: 100vh;
+    margin: 0; 
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    background-color: rgb(230, 104, 46);
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-link {
+    text-decoration: none;
+    padding: 0 20px;
+    line-height: 100px;
+    color: white;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+}
+
+.avatar {
+    width: 300px;
+    
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.contacts-list {
+    list-style: none;
+}
+
+.projects-link {
+    text-decoration: none;
+}
+
+.rs-school-logo {
+    width: 150px;
+}
+
+
+.contacts-link {
+    text-decoration: none;
+}
+
+
+
+.footer-list {
+    background-color: rgb(230, 104, 46);
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer-item {
+    padding: 0 20px;
+    line-height: 120px;
+    align-items: center;
+}
+
+
+
